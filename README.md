@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My firts GitHub Repository!
+My first GitHub Repository!
